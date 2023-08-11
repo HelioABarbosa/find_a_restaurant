@@ -50,11 +50,11 @@ Interactive world map with sidebar options. Selecting all options available coul
 
 ## 4. Top 3 Data-driven Insights
 
-### I - The database has a lot of results from India and there’s a relevant segmentation of Indian cuisines to be considered (“North Indian”, “Modern Indian”, “South Indian”), which should be considered in the decision-making process. (Note: Sometimes removing India from the filters helps to visualize the metrics for different countries)
+I - The database has a lot of results from India and there’s a relevant segmentation of Indian cuisines to be considered (“North Indian”, “Modern Indian”, “South Indian”), which should be considered in the decision-making process. (Note: Sometimes removing India from the filters helps to visualize the metrics for different countries)
 
-### II - Brazilian ratings are significantly lower than other countries in the database, with a significant number of restaurants in major cities with low ratings. Considering the size of the Brazilian market, specific strategies could be adopted to improve the overall experience in that country.
+II - Brazilian ratings are significantly lower than other countries in the database, with a significant number of restaurants in major cities with low ratings. Considering the size of the Brazilian market, specific strategies could be adopted to improve the overall experience in that country.
 
-### III - United States is the top 2 country in number of restaurants and the top 4 when it comes to mean average ratings. Alongside India, that market can be used to inspire strategies for other marketings that are underperforming by some metrics, like Brazil.
+III - United States is the top 2 country in number of restaurants and the top 4 when it comes to mean average ratings. Alongside India, that market can be used to inspire strategies for other marketings that are underperforming by some metrics, like Brazil.
 
 ## 5. Final Product
 
