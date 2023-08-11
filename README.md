@@ -3,6 +3,8 @@
 This dashboard was built to investigate restaurant and cuisine ratings from all over the world.
 The project was developed while studying with “Comunidade DS”, a community of data enthusiasts and avid learners that share experiences and take into consideration real-world problems to elaborate solutions within market standards.
 
+Dashboard link: https://find-a-restaurant.streamlit.app/
+
 ## 1) Business Problem
 
 To facilitate data-driven decisions, the Find-a-Restaurant project started. The project used the Zomato Restaurants database, which helps clients to find restaurants worldwide, informing the cuisines, addresses, booking information, and delivery information of restaurants; alongside a rating system.
